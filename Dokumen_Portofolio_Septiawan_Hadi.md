@@ -5,7 +5,7 @@
 ---
 
 ## 👤 PROFIL SINGKAT
-Saya adalah mahasiswa aktif program studi **Rekayasa Perangkat Lunak** di **Universitas Pendidikan Indonesia (UPI)** (angkatan 2023, perkiraan lulus 2027) yang berfokus pada pengembangan produk digital secara menyeluruh (fullstack development). Saya baru saja menyelesaikan program magang sebagai **Fullstack Developer** di **Dinas Komunikasi dan Informatika (Diskominfo) Kabupaten Bandung**. 
+Saya adalah mahasiswa aktif program studi **Rekayasa Perangkat Lunak** di **Universitas Pendidikan Indonesia (UPI)** (angkatan 2023, perkiraan lulus 2027) yang berfokus pada pengembangan produk digital secara menyeluruh (fullstack development). Saya memiliki pengalaman magang sebagai **Software Engineer** di **Nix Offset** serta **Fullstack Developer** di **Dinas Komunikasi dan Informatika (Diskominfo) Kabupaten Bandung**. 
 
 Keahlian utama saya terletak pada pembuatan aplikasi web dan mobile (React Native/Expo), perancangan UI/UX berbasis pendekatan *Human-Centered Design*, integrasi sistem pihak ketiga, serta penerapan kecerdasan buatan (Artificial Intelligence) dan analisis data.
 
@@ -17,6 +17,24 @@ Keahlian utama saya terletak pada pembuatan aplikasi web dan mobile (React Nativ
 * **Backend & Database**: Fullstack Development, REST API, SQL, Python, IT Infrastructure, System Integration.
 * **Kecerdasan Buatan & Data**: AI Integration, Machine Learning, Data Science, Prompt Engineering, Generative AI (Azure), Microsoft Fabric, Google Cloud Platform (GCP).
 * **Riset & Akademis**: Riset Metodologis, Penulisan Karya Ilmiah, Financial Literacy.
+
+---
+
+## 💼 RIWAYAT PENGALAMAN KERJA / MAGANG
+
+### 1. Nix Offset
+* **Peran**: Software Engineer (Intern / Magang)
+* **Tanggung Jawab & Tanggung Jawab Utama**:
+  - **Company Profile Website**: Merancang dan membangun website profil perusahaan secara interaktif untuk branding dan informasi bisnis.
+  - **Aplikasi Manajemen Office**: Mengembangkan aplikasi pengelolaan sistem internal kantor guna mengoptimalkan alur kerja administrasi dan operasional.
+  - **Aplikasi Estimasi Potongan Bahan Kemasan (Plano)**: Membangun sistem kalkulasi dan estimasi optimasi pemotongan lembaran bahan kemasan produk (plano) untuk efisiensi bahan baku serta akurasi estimasi biaya produksi.
+
+### 2. Dinas Komunikasi dan Informatika (Diskominfo) Kabupaten Bandung
+* **Peran**: Fullstack Developer (Intern / Magang)
+* **Tanggung Jawab & Tanggung Jawab Utama**:
+  - Merancang dan mengembangkan fitur-fitur aplikasi web dan mobile pemerintahan secara menyeluruh (Frontend & Backend).
+  - Mengintegrasikan API pihak ketiga dan melakukan standarisasi struktur database relasional.
+  - Berkolaborasi aktif dengan tim infrastruktur IT dan departemen terkait.
 
 ---
 

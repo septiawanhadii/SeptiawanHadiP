@@ -8,12 +8,18 @@
 ---
 
 ### RINGKASAN PROFESIONAL
-Mahasiswa aktif Rekayasa Perangkat Lunak di Universitas Pendidikan Indonesia (UPI) dengan pengalaman praktis sebagai Fullstack Developer Magang di Dinas Komunikasi dan Informatika (Diskominfo) Kabupaten Bandung. Memiliki antusiasme dan keahlian tinggi dalam membangun produk digital secara menyeluruh (End-to-End), mulai dari perancangan antarmuka pengguna berbasis Human-Centered Design (Figma, Prototyping) hingga logika server (Python, SQL, REST API) serta integrasi kecerdasan buatan (Gen AI, Machine Learning). Terbiasa bekerja dalam tim dengan metodologi adaptif dan berorientasi riset untuk menghasilkan sistem yang stabil, estetik, dan skalabel.
+Mahasiswa aktif Rekayasa Perangkat Lunak di Universitas Pendidikan Indonesia (UPI) dengan pengalaman praktis sebagai Software Engineer Magang di Nix Offset serta Fullstack Developer Magang di Dinas Komunikasi dan Informatika (Diskominfo) Kabupaten Bandung. Memiliki antusiasme dan keahlian tinggi dalam membangun produk digital secara menyeluruh (End-to-End), mulai dari perancangan antarmuka pengguna berbasis Human-Centered Design (Figma, Prototyping) hingga logika server (Python, SQL, REST API) serta integrasi kecerdasan buatan (Gen AI, Machine Learning). Terbiasa bekerja dalam tim dengan metodologi adaptif dan berorientasi riset untuk menghasilkan sistem yang stabil, estetik, dan skalabel.
 
 ---
 
 ### RIWAYAT PEKERJAAN
-**Dinas Komunikasi dan Informatika (Diskominfo) Kabupaten Bandung**  
+**Nix Offset**  
+*Software Engineer - Intern (Magang)* | Indonesia  
+* Merancang dan mengimplementasikan website Company Profile perusahaan untuk memperkuat branding digital.
+* Mengembangkan Aplikasi Manajemen Office internal untuk menyederhanakan alur kerja administrasi dan efisiensi operasional kantor.
+* Membangun aplikasi kalkulasi & estimasi optimasi pemotongan bahan kemasan produk (lembaran plano) untuk efisiensi pemakaian bahan dan biaya produksi.
+
+**Dinas Komunikasi dan Informatika (Diskominfo) Kabupaten Bandung** dan Informatika (Diskominfo) Kabupaten Bandung**  
 *Fullstack Developer - Intern (Magang)* | Bandung, Indonesia  
 *Mei 2026 – Juli 2026*
 * Merancang dan mengembangkan fitur-fitur aplikasi web dan mobile pemerintahan secara menyeluruh (Frontend & Backend).
