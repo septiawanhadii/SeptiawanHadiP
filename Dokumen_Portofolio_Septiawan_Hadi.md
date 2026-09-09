@@ -130,19 +130,20 @@ Berikut adalah daftar publikasi ilmiah dan tulisan akademis/artikel yang telah s
 
 ## 🏅 SERTIFIKASI PROFESIONAL
 
-1. **Google Analytics Certification (2026)** – *Skillshop* ([Verifikasi](https://www.credential.net/fed13720-838c-4f0e-93cc-63edadecc08c))
-2. Saya aktif memperbarui keahlian melalui sertifikasi kredibel dari Dicoding Indonesia (Partner Google/Microsoft):
-3. **Membangun Aplikasi Gen AI dengan Microsoft Azure** (AI Generatif, Cloud)
-4. **Prompt Engineering untuk Software Developer** (AI Interaction, Rekayasa Prompt)
-5. **Belajar Machine Learning untuk Pemula** (Kecerdasan Buatan, ML Models)
-6. **Data Science dengan Microsoft Fabric** (Analisis Data, ETL)
-7. **Belajar Data Science** (Statistika, Data Processing)
-8. **Belajar Fundamental Pemrosesan Data** (Data Engineering)
-9. **Belajar Dasar Structured Query Language (SQL)** (Manajemen Basis Data Relasional)
-10. **Belajar Dasar Google Cloud** (Cloud Computing, GCP Services)
-11. **Belajar Dasar AI** (Konsep Dasar Kecerdasan Buatan)
-12. **Memulai Pemrograman dengan Python** (Logika OOP, Python Basics)
-13. **Financial Literacy** (Literasi Keuangan)
+1. **AI-Powered Performance Ads Certification (2026)** – *Skillshop* ([Verifikasi](https://www.credential.net/0b6288c1-3701-4dfa-8b87-9e12ca923796))
+2. **Google Analytics Certification (2026)** – *Skillshop* ([Verifikasi](https://www.credential.net/fed13720-838c-4f0e-93cc-63edadecc08c))
+3. Saya aktif memperbarui keahlian melalui sertifikasi kredibel dari Dicoding Indonesia (Partner Google/Microsoft):
+4. **Membangun Aplikasi Gen AI dengan Microsoft Azure** (AI Generatif, Cloud)
+5. **Prompt Engineering untuk Software Developer** (AI Interaction, Rekayasa Prompt)
+6. **Belajar Machine Learning untuk Pemula** (Kecerdasan Buatan, ML Models)
+7. **Data Science dengan Microsoft Fabric** (Analisis Data, ETL)
+8. **Belajar Data Science** (Statistika, Data Processing)
+9. **Belajar Fundamental Pemrosesan Data** (Data Engineering)
+10. **Belajar Dasar Structured Query Language (SQL)** (Manajemen Basis Data Relasional)
+11. **Belajar Dasar Google Cloud** (Cloud Computing, GCP Services)
+12. **Belajar Dasar AI** (Konsep Dasar Kecerdasan Buatan)
+13. **Memulai Pemrograman dengan Python** (Logika OOP, Python Basics)
+14. **Financial Literacy** (Literasi Keuangan)
 14. ---
 
 ## 📞 KONTAK & SALURAN KOMUNIKASI
