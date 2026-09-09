@@ -3,7 +3,7 @@
 
 📍 Ciwidey, Kabupaten Bandung, Jawa Barat, Indonesia  
 ✉️ septiawanhadi38@gmail.com | 📞 +62 821-1252-1412  
-🔗 [linkedin.com/in/septiawanhadip26](https://www.linkedin.com/in/septiawanhadip26/) | 💻 [dripcode.site](https://dripcode.site)
+🔗 [linkedin.com/in/septiawanhadip26](https://www.linkedin.com/in/septiawanhadip26/)
 
 ---
 
