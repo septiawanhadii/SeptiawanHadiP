@@ -2643,46 +2643,7 @@
     });
   </script>
 
-  <!-- DRIPCODE WIDGET -->
-  <div class="dripcode-widget" id="dripcodeWidget" onclick="window.open('https://dripcode.site', '_blank')">
-    <button class="dripcode-close" id="closeDripcode" aria-label="Tutup Iklan">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" width="10" height="10">
-        <line x1="18" y1="6" x2="6" y2="18"></line>
-        <line x1="6" y1="6" x2="18" y2="18"></line>
-      </svg>
-    </button>
-    <div class="dripcode-badge">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="10" height="10">
-        <polygon points="12 2 22 8.5 22 15.5 12 22 2 15.5 2 8.5 12 2"></polygon>
-        <line x1="12" y1="22" x2="12" y2="15.5"></line>
-        <polyline points="22 8.5 12 15.5 2 8.5"></polyline>
-        <polyline points="2 15.5 12 15.5 22 15.5"></polyline>
-      </svg>
-      <span data-lang-id="Partner Kami" data-lang-en="Our Partner">Partner Kami</span>
-    </div>
-    <h4 class="dripcode-title">Dripcode Studio &rarr;</h4>
-    <p class="dripcode-desc" data-lang-id="Ingin website atau aplikasi premium kustom untuk bisnis Anda? Wujudkan produk digital berkinerja tinggi bersama Dripcode. Konsultasikan gratis sekarang!" data-lang-en="Need a custom premium website or app for your business? Build high-performance digital products with Dripcode. Free consultation now!">
-      Ingin website atau aplikasi premium kustom untuk bisnis Anda? Wujudkan produk digital berkinerja tinggi bersama Dripcode. Konsultasikan gratis sekarang!
-    </p>
-  </div>
 
-  <script>
-    (function() {
-      const closeBtn = document.getElementById('closeDripcode');
-      const widget = document.getElementById('dripcodeWidget');
-      if (closeBtn && widget) {
-        closeBtn.addEventListener('click', function(e) {
-          e.stopPropagation(); // Stop redirect trigger from outer div
-          widget.style.opacity = '0';
-          widget.style.transform = 'translateX(-30px) scale(0.95)';
-          widget.style.pointerEvents = 'none';
-          setTimeout(function() {
-            widget.remove();
-          }, 300);
-        });
-      }
-    })();
-  </script>
 </body>
 
 </html>
