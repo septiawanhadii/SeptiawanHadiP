@@ -24,6 +24,7 @@ Keahlian utama saya terletak pada pembuatan aplikasi web dan mobile (React Nativ
 
 ### 1. Nix Offset
 * **Peran**: Software Engineer (Intern / Magang)
+* **Durasi**: Juni 2026 – Agustus 2026
 * **Tanggung Jawab & Tanggung Jawab Utama**:
   - **Company Profile Website**: Merancang dan membangun website profil perusahaan secara interaktif untuk branding dan informasi bisnis.
   - **Aplikasi Manajemen Office**: Mengembangkan aplikasi pengelolaan sistem internal kantor guna mengoptimalkan alur kerja administrasi dan operasional.
@@ -31,6 +32,7 @@ Keahlian utama saya terletak pada pembuatan aplikasi web dan mobile (React Nativ
 
 ### 2. Dinas Komunikasi dan Informatika (Diskominfo) Kabupaten Bandung
 * **Peran**: Fullstack Developer (Intern / Magang)
+* **Durasi**: Februari 2026 – Juni 2026
 * **Tanggung Jawab & Tanggung Jawab Utama**:
   - Merancang dan mengembangkan fitur-fitur aplikasi web dan mobile pemerintahan secara menyeluruh (Frontend & Backend).
   - Mengintegrasikan API pihak ketiga dan melakukan standarisasi struktur database relasional.

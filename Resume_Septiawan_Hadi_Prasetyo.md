@@ -24,13 +24,13 @@ Mahasiswa aktif Rekayasa Perangkat Lunak di Universitas Pendidikan Indonesia (UP
 
 ### PENGALAMAN KERJA / MAGANG
 **Nix Offset** — Bandung, Indonesia  
-*Software Engineer (Internship / Magang)* | *Mei 2026 – Juli 2026*
+*Software Engineer (Internship / Magang)* | *Juni 2026 – Agustus 2026*
 * **Aplikasi Estimasi Potongan Bahan (Plano)**: Membangun perangkat lunak kalkulasi dan optimasi pemotongan lembaran bahan kemasan produk (plano) untuk meminimalkan sisa bahan baku (*waste*) dan meningkatkan akurasi estimasi biaya produksi.
 * **Aplikasi Manajemen Office**: Mengembangkan aplikasi pengelolaan sistem internal kantor untuk menyederhanakan alur kerja operasional dan administrasi internal perusahaan.
 * **Company Profile Website**: Merancang dan membangun situs web profil resmi perusahaan yang responsif untuk memperkuat citra digital dan jangkauan klien.
 
 **Dinas Komunikasi dan Informatika (Diskominfo) Kabupaten Bandung** — Bandung, Indonesia  
-*Fullstack Developer (Internship / Magang)* | *Mei 2026 – Juli 2026*
+*Fullstack Developer (Internship / Magang)* | *Februari 2026 – Juni 2026*
 * **Pengembangan End-to-End**: Merancang serta mengimplementasikan fitur-fitur aplikasi web dan mobile layanan publik pemerintah daerah secara menyeluruh (Frontend & Backend).
 * **Integrasi API & Database**: Melakukan integrasi API pihak ketiga dan standarisasi arsitektur database relasional untuk meningkatkan kecepatan pertukaran data.
 * **Validasi & Deployment**: Berkolaborasi dengan tim infrastruktur IT untuk validasi kebutuhan teknis pengadaan sistem dan kesiapan deployment produk.
