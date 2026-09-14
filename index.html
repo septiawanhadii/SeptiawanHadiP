@@ -783,7 +783,71 @@
       .cert-modal {
         max-height: 85vh;
       }
-      .cert-modal-body iframe {
+      
+    .cert-modal-ext-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 14px;
+      border-radius: 999px;
+      background: rgba(99, 102, 241, 0.12);
+      border: 1px solid rgba(99, 102, 241, 0.3);
+      color: var(--accent-light);
+      font-size: 12px;
+      font-weight: 600;
+      text-decoration: none;
+      transition: var(--transition);
+      margin-left: auto;
+      margin-right: 12px;
+    }
+    .cert-modal-ext-btn:hover {
+      background: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+    }
+    .cert-modal-fallback {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 48px 24px;
+      text-align: center;
+      height: 100%;
+      min-height: 400px;
+      background: rgba(15, 23, 42, 0.6);
+    }
+    .cert-modal-fallback h3 {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text-primary);
+      margin: 12px 0 8px;
+    }
+    .cert-modal-fallback p {
+      font-size: 14px;
+      color: var(--text-muted);
+      max-width: 480px;
+      margin-bottom: 24px;
+      line-height: 1.6;
+    }
+    .cert-modal-ext-btn-large {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 24px;
+      border-radius: var(--radius-md);
+      background: linear-gradient(135deg, var(--accent) 0%, var(--accent-secondary) 100%);
+      color: #fff;
+      font-weight: 700;
+      font-size: 14px;
+      text-decoration: none;
+      box-shadow: 0 4px 15px rgba(99, 102, 241, 0.3);
+      transition: var(--transition);
+    }
+    .cert-modal-ext-btn-large:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(99, 102, 241, 0.5);
+    }
+    .cert-modal-body iframe {
         min-height: 380px;
       }
       .cert-modal-header {
@@ -1213,6 +1277,70 @@
       min-height: 0;
     }
 
+    
+    .cert-modal-ext-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 14px;
+      border-radius: 999px;
+      background: rgba(99, 102, 241, 0.12);
+      border: 1px solid rgba(99, 102, 241, 0.3);
+      color: var(--accent-light);
+      font-size: 12px;
+      font-weight: 600;
+      text-decoration: none;
+      transition: var(--transition);
+      margin-left: auto;
+      margin-right: 12px;
+    }
+    .cert-modal-ext-btn:hover {
+      background: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+    }
+    .cert-modal-fallback {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 48px 24px;
+      text-align: center;
+      height: 100%;
+      min-height: 400px;
+      background: rgba(15, 23, 42, 0.6);
+    }
+    .cert-modal-fallback h3 {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text-primary);
+      margin: 12px 0 8px;
+    }
+    .cert-modal-fallback p {
+      font-size: 14px;
+      color: var(--text-muted);
+      max-width: 480px;
+      margin-bottom: 24px;
+      line-height: 1.6;
+    }
+    .cert-modal-ext-btn-large {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 24px;
+      border-radius: var(--radius-md);
+      background: linear-gradient(135deg, var(--accent) 0%, var(--accent-secondary) 100%);
+      color: #fff;
+      font-weight: 700;
+      font-size: 14px;
+      text-decoration: none;
+      box-shadow: 0 4px 15px rgba(99, 102, 241, 0.3);
+      transition: var(--transition);
+    }
+    .cert-modal-ext-btn-large:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(99, 102, 241, 0.5);
+    }
     .cert-modal-body iframe {
       width: 100%;
       height: 100%;
@@ -2698,12 +2826,23 @@
           <strong id="certModalName">Sertifikat</strong>
           <span id="certModalIssuer">Issuer</span>
         </div>
+        <a id="certModalExternalLink" href="#" target="_blank" rel="noopener noreferrer" class="cert-modal-ext-btn" data-lang-id="Buka Tautan Resmi ↗" data-lang-en="Open Official Link ↗">
+          Buka Tautan Resmi ↗
+        </a>
         <button class="cert-modal-close" onclick="closeCertModal(null)" aria-label="Tutup">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" width="16" height="16"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
         </button>
       </div>
       <div class="cert-modal-body">
         <iframe id="certModalFrame" src="" allowfullscreen title="Preview Sertifikat"></iframe>
+        <div id="certModalFallback" class="cert-modal-fallback" style="display: none;">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" width="48" height="48" style="color: var(--accent);"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+          <h3 data-lang-id="Pratinjau Dibatasi Penyedia Kredensial" data-lang-en="Preview Restricted by Provider">Pratinjau Dibatasi Penyedia Kredensial</h3>
+          <p data-lang-id="Penyedia kredensial ini (seperti Google Skills / Skillshop) mengharuskan verifikasi langsung di platform resmi mereka." data-lang-en="This credential provider (such as Google Skills / Skillshop) requires direct verification on their official platform.">Penyedia kredensial ini (seperti Google Skills / Skillshop) mengharuskan verifikasi langsung di platform resmi mereka.</p>
+          <a id="certModalFallbackBtn" href="#" target="_blank" rel="noopener noreferrer" class="cert-modal-ext-btn-large" data-lang-id="Buka Profil / Sertifikat Resmi ↗" data-lang-en="Open Official Profile / Certificate ↗">
+            Buka Profil / Sertifikat Resmi ↗
+          </a>
+        </div>
       </div>
     </div>
   </div>
@@ -2712,7 +2851,23 @@
     function openCertModal(url, name, issuer) {
       document.getElementById('certModalName').textContent = name;
       document.getElementById('certModalIssuer').textContent = issuer;
-      document.getElementById('certModalFrame').src = url;
+      
+      const frame = document.getElementById('certModalFrame');
+      const fallback = document.getElementById('certModalFallback');
+      const extBtn = document.getElementById('certModalExternalLink');
+      const fallbackBtn = document.getElementById('certModalFallbackBtn');
+      
+      if (extBtn) extBtn.href = url;
+      if (fallbackBtn) fallbackBtn.href = url;
+      
+      if (url.includes('skills.google') || url.includes('credential.net')) {
+        if (frame) { frame.style.display = 'none'; frame.src = ''; }
+        if (fallback) fallback.style.display = 'flex';
+      } else {
+        if (fallback) fallback.style.display = 'none';
+        if (frame) { frame.style.display = 'block'; frame.src = url; }
+      }
+      
       document.getElementById('certModalOverlay').classList.add('open');
       document.body.style.overflow = 'hidden';
     }
@@ -2720,7 +2875,8 @@
     function closeCertModal(e) {
       if (e && e.target !== document.getElementById('certModalOverlay')) return;
       document.getElementById('certModalOverlay').classList.remove('open');
-      document.getElementById('certModalFrame').src = '';
+      const frame = document.getElementById('certModalFrame');
+      if (frame) frame.src = '';
       document.body.style.overflow = '';
     }
 
