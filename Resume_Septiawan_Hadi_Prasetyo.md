@@ -3,7 +3,7 @@
 
 📍 Ciwidey, Kabupaten Bandung, Jawa Barat, Indonesia  
 ✉️ [septiawanhadi38@gmail.com](mailto:septiawanhadi38@gmail.com) | 📞 [+62 821-1252-1412](https://wa.me/6282112521412)  
-🔗 [LinkedIn](https://www.linkedin.com/in/septiawanhadip26/) | 💻 [Portofolio Web](https://septiawanhadi.github.io/septiawanhadip/)
+🔗 [LinkedIn](https://www.linkedin.com/in/septiawanhadip26/) | 🌐 [Google Skills Profile](https://www.skills.google/public_profiles/9a2937ac-b60e-4a01-af73-ff809612bbeb) | 💻 [Portofolio Web](https://septiawanhadi.github.io/septiawanhadip/)
 
 ---
 
@@ -64,6 +64,9 @@ Mahasiswa aktif Rekayasa Perangkat Lunak di Universitas Pendidikan Indonesia (UP
 ---
 
 ### SERTIFIKASI PROFESIONAL TERPILIH
+* **Google Skills Public Profile (Silver League • 915 pts)** – *Google Skills*
+* **Gen AI: Beyond the Chatbot (2026)** – *Google Skills*
+* **Machine Learning Operations (MLOps) for Generative AI (2026)** – *Google Skills*
 * **AI-Powered Performance Ads Certification (2026)** – *Skillshop / Accredible*
 * **Google Analytics Certification (2026)** – *Skillshop / Accredible*
 * **Membangun Aplikasi Gen AI dengan Microsoft Azure** – *Dicoding Indonesia*

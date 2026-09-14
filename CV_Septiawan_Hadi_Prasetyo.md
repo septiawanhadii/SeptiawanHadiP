@@ -3,7 +3,7 @@
 
 📍 Ciwidey, Kabupaten Bandung, Jawa Barat, Indonesia  
 ✉️ septiawanhadi38@gmail.com | 📞 +62 821-1252-1412  
-🔗 [linkedin.com/in/septiawanhadip26](https://www.linkedin.com/in/septiawanhadip26/)
+🔗 [linkedin.com/in/septiawanhadip26](https://www.linkedin.com/in/septiawanhadip26/) | 🌐 [Google Skills Profile](https://www.skills.google/public_profiles/9a2937ac-b60e-4a01-af73-ff809612bbeb)
 
 ---
 
@@ -67,6 +67,9 @@ Mahasiswa aktif Rekayasa Perangkat Lunak di Universitas Pendidikan Indonesia (UP
 ---
 
 ### SERTIFIKASI PROFESIONAL
+* **Google Skills Public Profile (Silver League • 915 pts)** – *Google Skills* ([Profil Resmi](https://www.skills.google/public_profiles/9a2937ac-b60e-4a01-af73-ff809612bbeb))
+* **Gen AI: Beyond the Chatbot** – *Google Skills* ([Verifikasi](https://www.skills.google/public_profiles/9a2937ac-b60e-4a01-af73-ff809612bbeb/badges/25537467))
+* **Machine Learning Operations (MLOps) for Generative AI** – *Google Skills* ([Verifikasi](https://www.skills.google/public_profiles/9a2937ac-b60e-4a01-af73-ff809612bbeb/badges/25536617))
 * **AI-Powered Performance Ads Certification (2026)** – *Skillshop* ([Verifikasi](https://www.credential.net/0b6288c1-3701-4dfa-8b87-9e12ca923796))
 * **Google Analytics Certification (2026)** – *Skillshop* ([Verifikasi](https://www.credential.net/fed13720-838c-4f0e-93cc-63edadecc08c))
 * **Membangun Aplikasi Gen AI dengan Microsoft Azure** – *Dicoding Indonesia*

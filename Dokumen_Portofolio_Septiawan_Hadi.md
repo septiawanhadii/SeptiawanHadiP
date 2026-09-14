@@ -132,9 +132,12 @@ Berikut adalah daftar publikasi ilmiah dan tulisan akademis/artikel yang telah s
 
 ## 🏅 SERTIFIKASI PROFESIONAL
 
-1. **AI-Powered Performance Ads Certification (2026)** – *Skillshop* ([Verifikasi](https://www.credential.net/0b6288c1-3701-4dfa-8b87-9e12ca923796))
-2. **Google Analytics Certification (2026)** – *Skillshop* ([Verifikasi](https://www.credential.net/fed13720-838c-4f0e-93cc-63edadecc08c))
-3. Saya aktif memperbarui keahlian melalui sertifikasi kredibel dari Dicoding Indonesia (Partner Google/Microsoft):
+1. **Google Skills Public Profile (Silver League • 915 pts)** – *Google Skills* ([Profil Resmi](https://www.skills.google/public_profiles/9a2937ac-b60e-4a01-af73-ff809612bbeb))
+2. **Gen AI: Beyond the Chatbot** – *Google Skills* ([Verifikasi](https://www.skills.google/public_profiles/9a2937ac-b60e-4a01-af73-ff809612bbeb/badges/25537467))
+3. **Machine Learning Operations (MLOps) for Generative AI** – *Google Skills* ([Verifikasi](https://www.skills.google/public_profiles/9a2937ac-b60e-4a01-af73-ff809612bbeb/badges/25536617))
+4. **AI-Powered Performance Ads Certification (2026)** – *Skillshop* ([Verifikasi](https://www.credential.net/0b6288c1-3701-4dfa-8b87-9e12ca923796))
+5. **Google Analytics Certification (2026)** – *Skillshop* ([Verifikasi](https://www.credential.net/fed13720-838c-4f0e-93cc-63edadecc08c))
+6. Saya aktif memperbarui keahlian melalui sertifikasi kredibel dari Dicoding Indonesia (Partner Google/Microsoft):
 4. **Membangun Aplikasi Gen AI dengan Microsoft Azure** (AI Generatif, Cloud)
 5. **Prompt Engineering untuk Software Developer** (AI Interaction, Rekayasa Prompt)
 6. **Belajar Machine Learning untuk Pemula** (Kecerdasan Buatan, ML Models)
@@ -155,4 +158,5 @@ Hubungi saya untuk mendiskusikan peluang kolaborasi, riset, atau pengembangan pr
 * **Email**: [septiawanhadi38@gmail.com](mailto:septiawanhadi38@gmail.com)
 * **WhatsApp**: [+62 821-1252-1412](https://wa.me/6282112521412?text=Halo%20septi%20saya%20melihat%20anda%20dari%20portofolio%20anda%2C%20saya%20ingin%20mengajak%20berbicara%20serta%20berdiskusi%20sebentar%20apakah%20berkenan%3F)
 * **Instagram**: [@sptwnhdprsty_](https://www.instagram.com/sptwnhdprsty_)
+* **Google Skills**: [Google Skills Profile (Silver League)](https://www.skills.google/public_profiles/9a2937ac-b60e-4a01-af73-ff809612bbeb)
 * **LinkedIn**: [LinkedIn/septiawanhadip26](https://www.linkedin.com/in/septiawanhadip26/)
