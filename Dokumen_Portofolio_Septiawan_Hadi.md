@@ -1,21 +1,21 @@
-# DOKUMEN PORTOFOLIO
+# DOKUMEN PORTOFOLIO LENGKAP
 **Septiawan Hadi Prasetyo**  
-*Junior Developer & Research | Fullstack Developer | UI/UX Designer*
+*Junior Developer & Research | Fullstack Developer | AI System Engineer*
 
 ---
 
 ## 👤 PROFIL SINGKAT
-Saya adalah mahasiswa aktif program studi **Rekayasa Perangkat Lunak** di **Universitas Pendidikan Indonesia (UPI)** (angkatan 2023, perkiraan lulus 2027) yang berfokus pada pengembangan produk digital secara menyeluruh (fullstack development). Saya memiliki pengalaman magang sebagai **Software Engineer** di **Nix Offset** serta **Fullstack Developer** di **Dinas Komunikasi dan Informatika (Diskominfo) Kabupaten Bandung**. 
+Saya adalah mahasiswa aktif program studi **Rekayasa Perangkat Lunak (S1)** di **Universitas Pendidikan Indonesia (UPI)** (angkatan 2023, semester 7, perkiraan lulus 2027) yang berfokus pada pengembangan produk digital secara menyeluruh (*fullstack development*) dan penerapan kecerdasan buatan (*Artificial Intelligence*). Saya memiliki pengalaman magang sebagai **Software Engineer** di **Nix Offset** serta **Fullstack Developer** di **Dinas Komunikasi dan Informatika (Diskominfo) Kabupaten Bandung**.
 
-Keahlian utama saya terletak pada pembuatan aplikasi web dan mobile (React Native/Expo), perancangan UI/UX berbasis pendekatan *Human-Centered Design*, integrasi sistem pihak ketiga, serta penerapan kecerdasan buatan (Artificial Intelligence) dan analisis data.
+Keahlian utama saya mencakup pembuatan aplikasi web dan mobile (React Native/Expo/Next.js), perancangan antarmuka pengguna berbasis *Human-Centered Design* (Figma/Prototyping), integrasi API sistem, arsitektur database relasional, serta penerapan teknologi AI (Gen AI Azure, MLOps, Prompt Engineering, dan Machine Learning).
 
 ---
 
 ## 🛠️ KEAHLIAN UTAMA & TEKNOLOGI
 
-* **Desain & Frontend**: UI/UX Design, Figma, Prototyping, Human-Centered Design, React Native, Expo, HTML, CSS, JavaScript.
-* **Backend & Database**: Fullstack Development, REST API, SQL, Python, IT Infrastructure, System Integration.
-* **Kecerdasan Buatan & Data**: AI Integration, Machine Learning, Data Science, Prompt Engineering, Generative AI (Azure), Microsoft Fabric, Google Cloud Platform (GCP).
+* **Desain & Frontend/Mobile**: UI/UX Design, Figma, Prototyping, Human-Centered Design, React Native, Expo, Next.js, React, HTML5, CSS3, JavaScript.
+* **Backend & Database**: Fullstack Development, REST API, SQL, Python, IT Infrastructure, System Integration, Database Relasional.
+* **Kecerdasan Buatan & Data**: AI Integration, Generative AI (Azure), MLOps, Machine Learning, Data Science, Prompt Engineering, Microsoft Fabric, Google Cloud Platform (GCP).
 * **Riset & Akademis**: Riset Metodologis, Penulisan Karya Ilmiah, Financial Literacy.
 
 ---
@@ -24,19 +24,19 @@ Keahlian utama saya terletak pada pembuatan aplikasi web dan mobile (React Nativ
 
 ### 1. Nix Offset
 * **Peran**: Software Engineer (Intern / Magang)
-* **Durasi**: Juni 2026 – Agustus 2026
-* **Tanggung Jawab & Tanggung Jawab Utama**:
-  - **Company Profile Website**: Merancang dan membangun website profil perusahaan secara interaktif untuk branding dan informasi bisnis.
-  - **Aplikasi Manajemen Office**: Mengembangkan aplikasi pengelolaan sistem internal kantor guna mengoptimalkan alur kerja administrasi dan operasional.
+* **Durasi**: Juni 2026 – Agustus 2026 | Bandung, Indonesia
+* **Tanggung Jawab & Pencapaian Utama**:
   - **Aplikasi Estimasi Potongan Bahan Kemasan (Plano)**: Membangun sistem kalkulasi dan estimasi optimasi pemotongan lembaran bahan kemasan produk (plano) untuk efisiensi bahan baku serta akurasi estimasi biaya produksi.
+  - **Aplikasi Manajemen Office**: Mengembangkan aplikasi pengelolaan sistem internal kantor guna mengoptimalkan alur kerja administrasi dan operasional internal perusahaan.
+  - **Company Profile Website**: Merancang dan membangun situs web profil resmi perusahaan yang responsif untuk memperkuat citra digital dan jangkauan klien.
 
 ### 2. Dinas Komunikasi dan Informatika (Diskominfo) Kabupaten Bandung
 * **Peran**: Fullstack Developer (Intern / Magang)
-* **Durasi**: Februari 2026 – Juni 2026
-* **Tanggung Jawab & Tanggung Jawab Utama**:
-  - Merancang dan mengembangkan fitur-fitur aplikasi web dan mobile pemerintahan secara menyeluruh (Frontend & Backend).
-  - Mengintegrasikan API pihak ketiga dan melakukan standarisasi struktur database relasional.
-  - Berkolaborasi aktif dengan tim infrastruktur IT dan departemen terkait.
+* **Durasi**: Februari 2026 – Juni 2026 | Bandung, Indonesia
+* **Tanggung Jawab & Pencapaian Utama**:
+  - **Pengembangan End-to-End**: Merancang dan mengembangkan fitur-fitur aplikasi web dan mobile layanan publik pemerintahan daerah secara menyeluruh (Frontend & Backend).
+  - **Integrasi API & Database**: Mengintegrasikan API pihak ketiga dan melakukan standarisasi struktur database relasional untuk meningkatkan kecepatan pertukaran data.
+  - **Validasi & Deployment**: Berkolaborasi aktif dengan tim infrastruktur IT dan departemen terkait untuk validasi pengadaan sistem dan kesiapan deployment.
 
 ---
 
@@ -108,8 +108,6 @@ Berikut adalah daftar proyek pengembangan perangkat lunak yang telah saya rancan
 
 ## 🎨 UI/UX CASE STUDY (PORTFOLIO DESAIN)
 
-Selain pemrograman, saya aktif merancang alur interaksi antarmuka (*user journey*) yang optimal:
-
 * **UI/UX &mdash; Redesign InDrive App**: Studi kasus desain ulang antarmuka aplikasi pemesanan transportasi InDrive di Figma untuk meningkatkan kemudahan transaksi pengguna (*usability*).
   - [File Desain (Figma)](https://www.figma.com/proto/PIPzwMaHh9h9vjC0srGamU/IMK-kelompok-2?node-id=138-896&starting-point-node-id=211%3A9861&t=c6Ioc1MLdg581gMo-1)
 * **UI/UX &mdash; Project AgrowUp App**: Rancangan purwarupa UI/UX aplikasi cerdas sektor pertanian (*Agrotech*) untuk membantu petani memonitor komoditas produk.
@@ -118,8 +116,6 @@ Selain pemrograman, saya aktif merancang alur interaksi antarmuka (*user journey
 ---
 
 ## 📄 JURNAL & ARTIKEL PUBLIKASI (RISET)
-
-Berikut adalah daftar publikasi ilmiah dan tulisan akademis/artikel yang telah saya buat:
 
 1. **Jurnal Ilmiah (2024)**: *"Penggunaan Teknologi Wearable: Untuk Optimalisasi Kebutuhan Atlet dan Masyarakat dalam Berolahraga"* &mdash; Diterbitkan pada Jurnal Multidisiplin Inovatif.
    - [Link Jurnal](https://share.google/cIGWU3pLw7lsQMdRJ)
@@ -137,19 +133,19 @@ Berikut adalah daftar publikasi ilmiah dan tulisan akademis/artikel yang telah s
 3. **Machine Learning Operations (MLOps) for Generative AI** – *Google Skills* ([Verifikasi](https://www.skills.google/public_profiles/9a2937ac-b60e-4a01-af73-ff809612bbeb/badges/25536617))
 4. **AI-Powered Performance Ads Certification (2026)** – *Skillshop* ([Verifikasi](https://www.credential.net/0b6288c1-3701-4dfa-8b87-9e12ca923796))
 5. **Google Analytics Certification (2026)** – *Skillshop* ([Verifikasi](https://www.credential.net/fed13720-838c-4f0e-93cc-63edadecc08c))
-6. Saya aktif memperbarui keahlian melalui sertifikasi kredibel dari Dicoding Indonesia (Partner Google/Microsoft):
-4. **Membangun Aplikasi Gen AI dengan Microsoft Azure** (AI Generatif, Cloud)
-5. **Prompt Engineering untuk Software Developer** (AI Interaction, Rekayasa Prompt)
-6. **Belajar Machine Learning untuk Pemula** (Kecerdasan Buatan, ML Models)
-7. **Data Science dengan Microsoft Fabric** (Analisis Data, ETL)
-8. **Belajar Data Science** (Statistika, Data Processing)
-9. **Belajar Fundamental Pemrosesan Data** (Data Engineering)
-10. **Belajar Dasar Structured Query Language (SQL)** (Manajemen Basis Data Relasional)
-11. **Belajar Dasar Google Cloud** (Cloud Computing, GCP Services)
-12. **Belajar Dasar AI** (Konsep Dasar Kecerdasan Buatan)
-13. **Memulai Pemrograman dengan Python** (Logika OOP, Python Basics)
-14. **Financial Literacy** (Literasi Keuangan)
-14. ---
+6. **Membangun Aplikasi Gen AI dengan Microsoft Azure** – *Dicoding Indonesia* (Partner Microsoft)
+7. **Prompt Engineering untuk Software Developer** – *Dicoding Indonesia*
+8. **Belajar Machine Learning untuk Pemula** – *Dicoding Indonesia*
+9. **Data Science dengan Microsoft Fabric** – *Dicoding Indonesia*
+10. **Belajar Data Science** – *Dicoding Indonesia*
+11. **Belajar Fundamental Pemrosesan Data** – *Dicoding Indonesia*
+12. **Belajar Dasar Structured Query Language (SQL)** – *Dicoding Indonesia*
+13. **Belajar Dasar Google Cloud** – *Dicoding Indonesia*
+14. **Belajar Dasar AI** – *Dicoding Indonesia*
+15. **Memulai Pemrograman dengan Python** – *Dicoding Indonesia*
+16. **Financial Literacy** – *Dicoding Indonesia*
+
+---
 
 ## 📞 KONTAK & SALURAN KOMUNIKASI
 
@@ -157,6 +153,7 @@ Hubungi saya untuk mendiskusikan peluang kolaborasi, riset, atau pengembangan pr
 
 * **Email**: [septiawanhadi38@gmail.com](mailto:septiawanhadi38@gmail.com)
 * **WhatsApp**: [+62 821-1252-1412](https://wa.me/6282112521412?text=Halo%20septi%20saya%20melihat%20anda%20dari%20portofolio%20anda%2C%20saya%20ingin%20mengajak%20berbicara%20serta%20berdiskusi%20sebentar%20apakah%20berkenan%3F)
-* **Instagram**: [@sptwnhdprsty_](https://www.instagram.com/sptwnhdprsty_)
-* **Google Skills**: [Google Skills Profile (Silver League)](https://www.skills.google/public_profiles/9a2937ac-b60e-4a01-af73-ff809612bbeb)
+* **Website Portofolio**: [septiawanhadii.github.io/SeptiawanHadiP](https://septiawanhadii.github.io/SeptiawanHadiP/)
+* **Google Skills Profile**: [Google Skills (Silver League)](https://www.skills.google/public_profiles/9a2937ac-b60e-4a01-af73-ff809612bbeb)
 * **LinkedIn**: [LinkedIn/septiawanhadip26](https://www.linkedin.com/in/septiawanhadip26/)
+* **Instagram**: [@sptwnhdprsty_](https://www.instagram.com/sptwnhdprsty_)

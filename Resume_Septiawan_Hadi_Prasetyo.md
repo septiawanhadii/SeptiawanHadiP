@@ -3,12 +3,12 @@
 
 📍 Ciwidey, Kabupaten Bandung, Jawa Barat, Indonesia  
 ✉️ [septiawanhadi38@gmail.com](mailto:septiawanhadi38@gmail.com) | 📞 [+62 821-1252-1412](https://wa.me/6282112521412)  
-🔗 [LinkedIn](https://www.linkedin.com/in/septiawanhadip26/) | 🌐 [Google Skills Profile](https://www.skills.google/public_profiles/9a2937ac-b60e-4a01-af73-ff809612bbeb) | 💻 [Portofolio Web](https://septiawanhadi.github.io/septiawanhadip/)
+🔗 [LinkedIn](https://www.linkedin.com/in/septiawanhadip26/) | 🌐 [Google Skills Profile](https://www.skills.google/public_profiles/9a2937ac-b60e-4a01-af73-ff809612bbeb) | 💻 [Portofolio Web](https://septiawanhadii.github.io/SeptiawanHadiP/)
 
 ---
 
 ### RINGKASAN EKSEKUTIF
-Mahasiswa aktif Rekayasa Perangkat Lunak di Universitas Pendidikan Indonesia (UPI) semester 7 dengan pengalaman kerja magang industri sebagai **Software Engineer** di **Nix Offset** dan **Fullstack Developer** di **Diskominfo Kabupaten Bandung**. Memiliki spesialisasi dalam pengembangan aplikasi *End-to-End* (Web & Mobile React Native/Expo), perancangan antarmuka pengguna (UI/UX Figma), integrasi API sistem, serta implementasi *Artificial Intelligence* (Gen AI Azure, Prompt Engineering, Machine Learning). Terbiasa memecahkan masalah kompleks dengan pendekatan arsitektur data yang efisien dan orientasi produk berbasis *Human-Centered Design*.
+Mahasiswa aktif Rekayasa Perangkat Lunak di Universitas Pendidikan Indonesia (UPI) semester 7 dengan pengalaman kerja magang industri sebagai **Software Engineer** di **Nix Offset** dan **Fullstack Developer** di **Diskominfo Kabupaten Bandung**. Memiliki spesialisasi dalam pengembangan aplikasi *End-to-End* (Web & Mobile React Native/Expo), perancangan antarmuka pengguna (UI/UX Figma), integrasi API sistem, serta implementasi *Artificial Intelligence* (Gen AI Azure, MLOps, Prompt Engineering, Machine Learning). Terbiasa memecahkan masalah kompleks dengan pendekatan arsitektur data yang efisien dan orientasi produk berbasis *Human-Centered Design*.
 
 ---
 
@@ -16,7 +16,7 @@ Mahasiswa aktif Rekayasa Perangkat Lunak di Universitas Pendidikan Indonesia (UP
 * **Bahasa Pemrograman**: Python, JavaScript, SQL, HTML5, CSS3.
 * **Framework & Frontend/Mobile**: React Native, Expo, Next.js, React, RESTful API.
 * **Backend & Database**: Fullstack Engineering, Relational Database (SQL), Server Logic, System Integration.
-* **AI, Data & Cloud**: Generative AI (Microsoft Azure), Prompt Engineering, Machine Learning, Data Science, Google Cloud Platform (GCP), Microsoft Fabric.
+* **AI, Data & Cloud**: Generative AI (Microsoft Azure), MLOps, Prompt Engineering, Machine Learning, Data Science, Google Cloud Platform (GCP), Microsoft Fabric.
 * **UI/UX & Tools**: Figma, Wireframing, Prototyping, Human-Centered Design, Git/GitHub, VS Code.
 * **Bahasa & Metodologi**: Bahasa Indonesia (Native), English (Professional Working), Riset Metodologis, Penulisan Ilmiah.
 

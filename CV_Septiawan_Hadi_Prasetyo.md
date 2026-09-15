@@ -1,38 +1,38 @@
 # SEPTIAWAN HADI PRASETYO
-**Junior Developer & Research | Fullstack Developer | UI/UX Designer**
+**Junior Developer & Research | Fullstack Developer | AI System Engineer**
 
 📍 Ciwidey, Kabupaten Bandung, Jawa Barat, Indonesia  
 ✉️ septiawanhadi38@gmail.com | 📞 +62 821-1252-1412  
-🔗 [linkedin.com/in/septiawanhadip26](https://www.linkedin.com/in/septiawanhadip26/) | 🌐 [Google Skills Profile](https://www.skills.google/public_profiles/9a2937ac-b60e-4a01-af73-ff809612bbeb)
+🔗 [linkedin.com/in/septiawanhadip26](https://www.linkedin.com/in/septiawanhadip26/) | 🌐 [Google Skills Profile](https://www.skills.google/public_profiles/9a2937ac-b60e-4a01-af73-ff809612bbeb) | 💻 [Portofolio Web](https://septiawanhadii.github.io/SeptiawanHadiP/)
 
 ---
 
 ### RINGKASAN PROFESIONAL
-Mahasiswa aktif Rekayasa Perangkat Lunak di Universitas Pendidikan Indonesia (UPI) dengan pengalaman praktis sebagai Software Engineer Magang di Nix Offset serta Fullstack Developer Magang di Dinas Komunikasi dan Informatika (Diskominfo) Kabupaten Bandung. Memiliki antusiasme dan keahlian tinggi dalam membangun produk digital secara menyeluruh (End-to-End), mulai dari perancangan antarmuka pengguna berbasis Human-Centered Design (Figma, Prototyping) hingga logika server (Python, SQL, REST API) serta integrasi kecerdasan buatan (Gen AI, Machine Learning). Terbiasa bekerja dalam tim dengan metodologi adaptif dan berorientasi riset untuk menghasilkan sistem yang stabil, estetik, dan skalabel.
+Mahasiswa aktif Rekayasa Perangkat Lunak di Universitas Pendidikan Indonesia (UPI) semester 7 dengan pengalaman kerja praktis sebagai Software Engineer Magang di Nix Offset serta Fullstack Developer Magang di Dinas Komunikasi dan Informatika (Diskominfo) Kabupaten Bandung. Memiliki antusiasme dan keahlian tinggi dalam membangun produk digital secara menyeluruh (End-to-End), mulai dari perancangan antarmuka pengguna berbasis Human-Centered Design (Figma, Prototyping) hingga logika server (Python, SQL, REST API) serta integrasi kecerdasan buatan (Gen AI, MLOps, Machine Learning). Terbiasa bekerja dalam tim dengan metodologi adaptif dan berorientasi riset untuk menghasilkan sistem yang stabil, estetik, dan skalabel.
 
 ---
 
 ### RIWAYAT PEKERJAAN
 **Nix Offset**  
-*Software Engineer - Intern (Magang)* | Indonesia
+*Software Engineer - Intern (Magang)* | Bandung, Indonesia  
 *Juni 2026 – Agustus 2026*  
-* Merancang dan mengimplementasikan website Company Profile perusahaan untuk memperkuat branding digital.
-* Mengembangkan Aplikasi Manajemen Office internal untuk menyederhanakan alur kerja administrasi dan efisiensi operasional kantor.
-* Membangun aplikasi kalkulasi & estimasi optimasi pemotongan bahan kemasan produk (lembaran plano) untuk efisiensi pemakaian bahan dan biaya produksi.
+* **Aplikasi Estimasi Potongan Bahan Kemasan (Plano)**: Membangun perangkat lunak kalkulasi dan optimasi pemotongan lembaran bahan kemasan produk (plano) untuk meminimalkan sisa bahan baku (*waste*) dan meningkatkan akurasi estimasi biaya produksi.
+* **Aplikasi Manajemen Office**: Mengembangkan aplikasi pengelolaan sistem internal kantor untuk menyederhanakan alur kerja operasional dan administrasi internal perusahaan.
+* **Company Profile Website**: Merancang dan membangun situs web profil resmi perusahaan yang responsif untuk memperkuat citra digital dan jangkauan klien.
 
 **Dinas Komunikasi dan Informatika (Diskominfo) Kabupaten Bandung**  
 *Fullstack Developer - Intern (Magang)* | Bandung, Indonesia  
 *Februari 2026 – Juni 2026*
-* Merancang dan mengembangkan fitur-fitur aplikasi web dan mobile pemerintahan secara menyeluruh (Frontend & Backend).
-* Mengintegrasikan API pihak ketiga dan melakukan standarisasi struktur database relasional untuk meningkatkan kecepatan pertukaran data.
-* Berkolaborasi aktif dengan tim infrastruktur IT dan departemen terkait untuk validasi kebutuhan pengadaan sistem dan deployment.
-* Menerapkan prinsip UI/UX yang responsif dan ramah pengguna guna mempermudah akses pelayanan publik bagi warga.
+* **Pengembangan End-to-End**: Merancang serta mengimplementasikan fitur-fitur aplikasi web dan mobile layanan publik pemerintah daerah secara menyeluruh (Frontend & Backend).
+* **Integrasi API & Database**: Mengintegrasikan API pihak ketiga dan melakukan standarisasi struktur database relasional untuk meningkatkan kecepatan pertukaran data.
+* **Validasi & Deployment**: Berkolaborasi aktif dengan tim infrastruktur IT dan departemen terkait untuk validasi kebutuhan teknis pengadaan sistem dan kesiapan deployment produk.
+* **UI/UX Aksesibel**: Menerapkan prinsip UI/UX yang responsif dan ramah pengguna guna mempermudah akses pelayanan publik bagi warga.
 
 ---
 
 ### PENDIDIKAN
 **Universitas Pendidikan Indonesia (UPI)**  
-*Sarjana Komputer - Rekayasa Perangkat Lunak (S1)* | Bandung, Indonesia  
+*Sarjana Komputer (S.Kom) - Rekayasa Perangkat Lunak (S1)* | Bandung, Indonesia  
 *2023 – Sekarang (Perkiraan Lulus: 2027)*
 * Status: Mahasiswa Aktif Semester 7.
 * Fokus Studi: Pengembangan Sistem Cerdas, Rekayasa Perangkat Lunak, Riset Human-Centered Technology, dan Penulisan Karya Ilmiah.
@@ -40,18 +40,18 @@ Mahasiswa aktif Rekayasa Perangkat Lunak di Universitas Pendidikan Indonesia (UP
 **SMK Telekomunikasi Telesandi Bekasi**  
 *Sekolah Menengah Kejuruan - Rekayasa Perangkat Lunak (RPL)* | Bekasi, Indonesia  
 *2021 – 2023*
-* Mempelajari pemrograman berorientasi objek (OOP), dasar-dasar pengembangan web, pemodelan dan query database (SQL), serta dasar-dasar jaringan komputer.
+* Mempelajari pemrograman berorientasi objek (OOP), dasar-dasar pengembangan web, pemodelan dan query database relasional (SQL), serta dasar-dasar jaringan komputer.
 
 ---
 
 ### PROYEK TERPILIH
 **UMKM Pintar Nusantara Berbasis AI (Android App)**  
-*Developer Utama* | [GitHub Link](https://github.com/septiawanhadi/UMKM-Pintar-Nusantara.git)
+*Lead Developer* | [GitHub Link](https://github.com/septiawanhadi/UMKM-Pintar-Nusantara.git)
 * Membangun aplikasi Android manajemen keuangan dan inventory tanggal kedaluwarsa produk bagi UMKM berbasis React Native dan Expo.
 * Mengintegrasikan fitur berbasis kecerdasan buatan (AI) untuk memberikan rekomendasi strategi bisnis dan analisis stok otomatis.
 
 **SafeTana AI (Web App)**  
-*Fullstack Developer* | [Live Site](https://safetana.vercel.app/)
+*Fullstack AI Developer* | [Live Site](https://safetana.vercel.app/)
 * Mengembangkan aplikasi tanggap bencana dan deteksi kesehatan digital terintegrasi data kebencanaan real-time berbasis AI.
 * Menyusun penulisan ilmiah/draft pendukung proyek untuk keperluan riset akademis.
 
@@ -60,8 +60,8 @@ Mahasiswa aktif Rekayasa Perangkat Lunak di Universitas Pendidikan Indonesia (UP
 * Membangun platform integrasi manajemen infrastruktur IT internal departemen.
 * Mengembangkan sistem standardisasi URL masking dan validasi alur pengadaan secara real-time.
 
-**Dataset Modul SPOK (Natural Language Processing)**  
-*Publisher & Researcher* | [Kaggle Dataset](https://www.kaggle.com/datasets/septiawanhadip/modul-spok)
+**Dataset Modul SPOK (Natural Language Processing Research)**  
+*Publisher & Data Researcher* | [Kaggle Dataset](https://www.kaggle.com/datasets/septiawanhadip/modul-spok)
 * Mengompilasi dan menerbitkan dataset terstruktur di Kaggle yang digunakan untuk kebutuhan pengenalan pola kalimat SPOK (Subjek, Predikat, Objek, Keterangan) dalam model pemrosesan bahasa alami (NLP).
 
 ---
@@ -88,7 +88,8 @@ Mahasiswa aktif Rekayasa Perangkat Lunak di Universitas Pendidikan Indonesia (UP
 
 ### KEAHLIAN TEKNIS
 * **Bahasa Pemrograman**: Python, JavaScript, HTML5, CSS3, SQL.
-* **Framework & Library**: React Native, Expo, REST API.
-* **Teknologi Data & AI**: Generative AI (Azure), Prompt Engineering, Machine Learning, Data Science, Microsoft Fabric, Google Cloud Platform (GCP).
-* **Desain & Kolaborasi**: UI/UX Design, Figma, Prototyping, Human-Centered Design, Git, GitHub.
-* **Lainnya**: Penulisan Ilmiah, Riset Metodologis.
+* **Framework & Mobile**: React Native, Expo, Next.js, React, RESTful API.
+* **Backend & System**: Fullstack Engineering, Relational Database (SQL), Server Logic, System Integration.
+* **AI, Data & Cloud**: Generative AI (Microsoft Azure), MLOps, Prompt Engineering, Machine Learning, Data Science, Google Cloud Platform (GCP), Microsoft Fabric.
+* **Desain & Tools**: UI/UX Design, Figma, Wireframing, Prototyping, Human-Centered Design, Git, GitHub, VS Code.
+* **Metodologi & Riset**: Penulisan Karya Ilmiah, Riset Metodologis.
