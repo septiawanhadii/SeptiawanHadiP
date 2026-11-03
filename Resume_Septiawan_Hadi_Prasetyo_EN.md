@@ -65,6 +65,8 @@ Active 7th-semester Software Engineering student at Universitas Pendidikan Indon
 
 ### PROFESSIONAL CERTIFICATIONS
 * **Google Skills Public Profile (Silver League • 915 pts)** – *Google Skills* ([Verified Profile](https://www.skills.google/public_profiles/9a2937ac-b60e-4a01-af73-ff809612bbeb))
+* **Certified Cybersecurity Educator Professional (CCEP) (2026)** – *Red Team Leaders* ([Verified](https://courses.redteamleaders.com/exam-completion/7674bb81943f93e5))
+* **Gemini Certified Student (University) (2026–2029)** – *Google for Education (Gemini Academy)*
 * **Gen AI: Beyond the Chatbot (2026)** – *Google Skills* ([Verified Badge](https://www.skills.google/public_profiles/9a2937ac-b60e-4a01-af73-ff809612bbeb/badges/25537467))
 * **Machine Learning Operations (MLOps) for Generative AI (2026)** – *Google Skills* ([Verified Badge](https://www.skills.google/public_profiles/9a2937ac-b60e-4a01-af73-ff809612bbeb/badges/25536617))
 * **AI-Powered Performance Ads Certification (2026)** – *Skillshop / Accredible* ([Verified](https://www.credential.net/0b6288c1-3701-4dfa-8b87-9e12ca923796))
@@ -79,4 +81,5 @@ Active 7th-semester Software Engineering student at Universitas Pendidikan Indon
 ---
 
 ### SCIENTIFIC PUBLICATIONS
+* **Journal Article (2026)**: *"Perancangan dan Implementasi Sistem Skrining Risiko Penyakit Berat Berbasis Web dengan Fitur Rekomendasi, Mood Tracker, dan Chatbot Pendukung"* — Jurnal Biostatistik, Kependudukan, dan Informatika Kesehatan (BIKFOKES), Universitas Indonesia. ([Journal Link](https://scholarhub.ui.ac.id/bikfokes/vol6/iss3/2/))
 * **Journal Article (2024)**: *"Penggunaan Teknologi Wearable: Untuk Optimalisasi Kebutuhan Atlet dan Masyarakat dalam Berolahraga"* — Jurnal Multidisiplin Inovatif. ([Journal Link](https://share.google/cIGWU3pLw7lsQMdRJ))

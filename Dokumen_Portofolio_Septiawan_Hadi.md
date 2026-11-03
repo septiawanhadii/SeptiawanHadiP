@@ -117,11 +117,13 @@ Berikut adalah daftar proyek pengembangan perangkat lunak yang telah saya rancan
 
 ## 📄 JURNAL & ARTIKEL PUBLIKASI (RISET)
 
-1. **Jurnal Ilmiah (2024)**: *"Penggunaan Teknologi Wearable: Untuk Optimalisasi Kebutuhan Atlet dan Masyarakat dalam Berolahraga"* &mdash; Diterbitkan pada Jurnal Multidisiplin Inovatif.
+1. **Jurnal Ilmiah (2026)**: *"Perancangan dan Implementasi Sistem Skrining Risiko Penyakit Berat Berbasis Web dengan Fitur Rekomendasi, Mood Tracker, dan Chatbot Pendukung"* &mdash; Diterbitkan pada Jurnal Biostatistik, Kependudukan, dan Informatika Kesehatan (BIKFOKES), Universitas Indonesia.
+   - [Link Jurnal UI ScholarHub](https://scholarhub.ui.ac.id/bikfokes/vol6/iss3/2/)
+2. **Jurnal Ilmiah (2024)**: *"Penggunaan Teknologi Wearable: Untuk Optimalisasi Kebutuhan Atlet dan Masyarakat dalam Berolahraga"* &mdash; Diterbitkan pada Jurnal Multidisiplin Inovatif.
    - [Link Jurnal](https://share.google/cIGWU3pLw7lsQMdRJ)
-2. **Artikel Publikasi (2025)**: *"Audiensi Pemilu BEM Kampus UPI di Cibiru"* &mdash; Diterbitkan oleh UPI Cibiru.
+3. **Artikel Publikasi (2025)**: *"Audiensi Pemilu BEM Kampus UPI di Cibiru"* &mdash; Diterbitkan oleh UPI Cibiru.
    - [Link Artikel](https://kd-cibiru.upi.edu/index.php/component/content/article/audiensi-pemilu-bem-kampus-upi-di-cibiru?catid=28&Itemid=101)
-3. **Artikel Publikasi (2025)**: *"Pemilu BEM Tahun 2025 di Kampus UPI Cibiru: MPU, DPPU, dan KPU Siap Jalankan Tugas"* &mdash; Diterbitkan oleh UPI Cibiru.
+4. **Artikel Publikasi (2025)**: *"Pemilu BEM Tahun 2025 di Kampus UPI Cibiru: MPU, DPPU, dan KPU Siap Jalankan Tugas"* &mdash; Diterbitkan oleh UPI Cibiru.
    - [Link Artikel](https://kd-cibiru.upi.edu/index.php/component/content/article/pemilu-bem-tahun-2025-di-kampus-upi-cibiru-mpu-dppu-dan-kpu-siap-jalankan-tugas?catid=28&Itemid=101)
 
 ---
@@ -129,21 +131,23 @@ Berikut adalah daftar proyek pengembangan perangkat lunak yang telah saya rancan
 ## 🏅 SERTIFIKASI PROFESIONAL
 
 1. **Google Skills Public Profile (Silver League • 915 pts)** – *Google Skills* ([Profil Resmi](https://www.skills.google/public_profiles/9a2937ac-b60e-4a01-af73-ff809612bbeb))
-2. **Gen AI: Beyond the Chatbot** – *Google Skills* ([Verifikasi](https://www.skills.google/public_profiles/9a2937ac-b60e-4a01-af73-ff809612bbeb/badges/25537467))
-3. **Machine Learning Operations (MLOps) for Generative AI** – *Google Skills* ([Verifikasi](https://www.skills.google/public_profiles/9a2937ac-b60e-4a01-af73-ff809612bbeb/badges/25536617))
-4. **AI-Powered Performance Ads Certification (2026)** – *Skillshop* ([Verifikasi](https://www.credential.net/0b6288c1-3701-4dfa-8b87-9e12ca923796))
-5. **Google Analytics Certification (2026)** – *Skillshop* ([Verifikasi](https://www.credential.net/fed13720-838c-4f0e-93cc-63edadecc08c))
-6. **Membangun Aplikasi Gen AI dengan Microsoft Azure** – *Dicoding Indonesia* (Partner Microsoft)
-7. **Prompt Engineering untuk Software Developer** – *Dicoding Indonesia*
-8. **Belajar Machine Learning untuk Pemula** – *Dicoding Indonesia*
-9. **Data Science dengan Microsoft Fabric** – *Dicoding Indonesia*
-10. **Belajar Data Science** – *Dicoding Indonesia*
-11. **Belajar Fundamental Pemrosesan Data** – *Dicoding Indonesia*
-12. **Belajar Dasar Structured Query Language (SQL)** – *Dicoding Indonesia*
-13. **Belajar Dasar Google Cloud** – *Dicoding Indonesia*
-14. **Belajar Dasar AI** – *Dicoding Indonesia*
-15. **Memulai Pemrograman dengan Python** – *Dicoding Indonesia*
-16. **Financial Literacy** – *Dicoding Indonesia*
+2. **Certified Cybersecurity Educator Professional (CCEP)** – *Red Team Leaders* ([Verifikasi](https://courses.redteamleaders.com/exam-completion/7674bb81943f93e5))
+3. **Siswa Tersertifikasi Gemini (Universitas) (2026–2029)** – *Google for Education (Gemini Academy)*
+4. **Gen AI: Beyond the Chatbot** – *Google Skills* ([Verifikasi](https://www.skills.google/public_profiles/9a2937ac-b60e-4a01-af73-ff809612bbeb/badges/25537467))
+5. **Machine Learning Operations (MLOps) for Generative AI** – *Google Skills* ([Verifikasi](https://www.skills.google/public_profiles/9a2937ac-b60e-4a01-af73-ff809612bbeb/badges/25536617))
+6. **AI-Powered Performance Ads Certification (2026)** – *Skillshop* ([Verifikasi](https://www.credential.net/0b6288c1-3701-4dfa-8b87-9e12ca923796))
+7. **Google Analytics Certification (2026)** – *Skillshop* ([Verifikasi](https://www.credential.net/fed13720-838c-4f0e-93cc-63edadecc08c))
+8. **Membangun Aplikasi Gen AI dengan Microsoft Azure** – *Dicoding Indonesia* (Partner Microsoft)
+9. **Prompt Engineering untuk Software Developer** – *Dicoding Indonesia*
+10. **Belajar Machine Learning untuk Pemula** – *Dicoding Indonesia*
+11. **Data Science dengan Microsoft Fabric** – *Dicoding Indonesia*
+12. **Belajar Data Science** – *Dicoding Indonesia*
+13. **Belajar Fundamental Pemrosesan Data** – *Dicoding Indonesia*
+14. **Belajar Dasar Structured Query Language (SQL)** – *Dicoding Indonesia*
+15. **Belajar Dasar Google Cloud** – *Dicoding Indonesia*
+16. **Belajar Dasar AI** – *Dicoding Indonesia*
+17. **Memulai Pemrograman dengan Python** – *Dicoding Indonesia*
+18. **Financial Literacy** – *Dicoding Indonesia*
 
 ---
 

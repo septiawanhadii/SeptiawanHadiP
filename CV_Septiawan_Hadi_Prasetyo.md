@@ -68,6 +68,8 @@ Mahasiswa aktif Rekayasa Perangkat Lunak di Universitas Pendidikan Indonesia (UP
 
 ### SERTIFIKASI PROFESIONAL
 * **Google Skills Public Profile (Silver League • 915 pts)** – *Google Skills* ([Profil Resmi](https://www.skills.google/public_profiles/9a2937ac-b60e-4a01-af73-ff809612bbeb))
+* **Certified Cybersecurity Educator Professional (CCEP) (2026)** – *Red Team Leaders* ([Verifikasi](https://courses.redteamleaders.com/exam-completion/7674bb81943f93e5))
+* **Siswa Tersertifikasi Gemini (Universitas) (2026–2029)** – *Google for Education (Gemini Academy)*
 * **Gen AI: Beyond the Chatbot** – *Google Skills* ([Verifikasi](https://www.skills.google/public_profiles/9a2937ac-b60e-4a01-af73-ff809612bbeb/badges/25537467))
 * **Machine Learning Operations (MLOps) for Generative AI** – *Google Skills* ([Verifikasi](https://www.skills.google/public_profiles/9a2937ac-b60e-4a01-af73-ff809612bbeb/badges/25536617))
 * **AI-Powered Performance Ads Certification (2026)** – *Skillshop* ([Verifikasi](https://www.credential.net/0b6288c1-3701-4dfa-8b87-9e12ca923796))
@@ -83,6 +85,12 @@ Mahasiswa aktif Rekayasa Perangkat Lunak di Universitas Pendidikan Indonesia (UP
 * **Belajar Dasar AI** – *Dicoding Indonesia*
 * **Memulai Pemrograman dengan Python** – *Dicoding Indonesia*
 * **Financial Literacy** – *Dicoding Indonesia*
+
+---
+
+### PUBLIKASI KARYA ILMIAH (RISET)
+* **Jurnal Ilmiah (2026)**: *"Perancangan dan Implementasi Sistem Skrining Risiko Penyakit Berat Berbasis Web dengan Fitur Rekomendasi, Mood Tracker, dan Chatbot Pendukung"* — Jurnal Biostatistik, Kependudukan, dan Informatika Kesehatan (BIKFOKES), Universitas Indonesia. ([Link Jurnal](https://scholarhub.ui.ac.id/bikfokes/vol6/iss3/2/))
+* **Jurnal Ilmiah (2024)**: *"Penggunaan Teknologi Wearable: Untuk Optimalisasi Kebutuhan Atlet dan Masyarakat dalam Berolahraga"* — Jurnal Multidisiplin Inovatif. ([Link Jurnal](https://share.google/cIGWU3pLw7lsQMdRJ))
 
 ---
 
